@@ -67,3 +67,13 @@ img {
 }
 
 .bolded { font-weight: bold !important; }
+
+
+.centertxt2 {
+    display: inline;
+    text-align: center;
+}
+
+.round1 {
+    border-radius: 25px;
+}
